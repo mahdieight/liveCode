@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Contracts\Controller\API\V1;
+namespace App\Contracts\Controller\Api\V1;
 
 
 interface UserControllerInterface
